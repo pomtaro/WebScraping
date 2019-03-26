@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: nbclean
+Version: 0.3.2
+Summary: Tools for preprocessing and cleaning Jupyter Notebooks.
+Home-page: https://predictablynoisy.com/nbclean
+License: UNKNOWN
+Author: Chris Holdgraf
+Author-email: choldgraf@berkeley.edu
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: setuptools
+Requires-Dist: nbformat
+Requires-Dist: numpy
+Requires-Dist: nbgrader
+Requires-Dist: matplotlib
+Requires-Dist: tqdm
